@@ -1,0 +1,13 @@
+@media (prefers-color-scheme: light) {
+  :root {
+    --background-color: #f7f8fa;
+    --background-color-2: white;
+    --background-color-3: white;
+
+    --text-color: #323233;
+    --text-color-2: #969799;
+    --text-color-3: #c8c9cc;
+
+    --border-color: #ebedf0;
+  }
+}
