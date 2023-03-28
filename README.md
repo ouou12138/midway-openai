@@ -1,18 +1,23 @@
-## hooks-vue-starter
+# midway-openai
 
-Use this template:
+## Config
+
+Add your openai api key
 
 ```bash
-npx degit https://github.com/midwayjs/hooks/examples/vue ./hooks-app
+#//.env
+VITE_API_KEY=your-key
 ```
 
-Use `npm install` to install the dependencies
+## Install
+
+Use `npm install` or `yarn` to install the dependencies
 
 ## Commands
 
-- `npm run dev`: Starts the development server
-- `npm run build`: Builds the application for production
-- `npm run start`: Runs the application in production mode
+- `dev`: Starts the development server
+- `build`: Builds the application for production
+- `start`: Runs the application in production mode
 
 ## File Structure
 
